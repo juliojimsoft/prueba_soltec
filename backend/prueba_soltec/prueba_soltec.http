@@ -1,0 +1,6 @@
+@prueba_soltec_HostAddress = http://localhost:5177
+
+GET {{prueba_soltec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
